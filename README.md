@@ -8,7 +8,7 @@
 
 💼 Front-End Developer with experience building SEO Research tools
 
-🌟 Independently developing a Full Stack Calendar Budget web app
+🌟 Independently developing a Full Stack Calendar Budget web app [EndsAPI](https://github.com/torenrob/endsapi) [EndsFE](https://github.com/torenrob/endsFE)
 
 💡 Passionate about creating impactful financial management solutions
 
