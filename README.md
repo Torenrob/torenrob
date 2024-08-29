@@ -7,6 +7,7 @@
 🚀 Completed The Odin Project's Full Stack Web Dev course   
 💡 Passionate about creating impactful financial management solutions   
 🔍 Focused on helping small businesses and individuals optimize their resources  
-🎓 Currently enrolled in a Full Stack Java Bootcamp   
-🎵 Fun fact: Former songwriter, now applying creative skills to crafting elegant code
+🎓 Currently enrolled in Per Scholas Full Stack Java Bootcamp July 2024 - Oct 2024    
+💼 Over a decade of experience in business operations across various industries   
+🎵 Hobbyist songwriter, applying creative problem-solving to code
 
