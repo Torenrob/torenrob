@@ -6,7 +6,7 @@
 
 🚀 Completed The Odin Project's Full Stack Web Dev course
 
-💼 Front-End Developer experience building SEO Research tools
+💼 Front-End Developer with experience building SEO Research tools
 
 🌟 Independently developing a Full Stack Calendar Budget web app
 
