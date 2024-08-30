@@ -7,7 +7,7 @@
 🚀 Completed [The Odin Project Full Stack Web Dev](https://www.theodinproject.com/) Curriculum April 2023-March 2024   
 🎓 Currently enrolled in [Per Scholas Full Stack Java Cohort](https://perscholas.org/courses/full-stack-java-development/national/) July 2024 - Oct 2024    
 💡 Passionate about creating impactful software solutions   
-🔍 Focused on helping small businesses and individuals optimize their resources  
+🔍 Focused on learning all that I can about software and emerging technology
 💼 Over a decade of experience in Business Operations across various industries [See My LinkedIn](https://www.linkedin.com/in/torenrobinson/)     
 🎵 Hobbyist songwriter, applying creative problem-solving to code
 
