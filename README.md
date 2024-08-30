@@ -8,6 +8,6 @@
 🎓 Currently enrolled in [Per Scholas Full Stack Java Cohort](https://perscholas.org/courses/full-stack-java-development/national/) July 2024 - Oct 2024    
 💡 Passionate about creating impactful software solutions   
 🔍 Focused on helping small businesses and individuals optimize their resources  
-💼 Over a decade of experience in business operations across various industries   
+💼 Over a decade of experience in Business Operations across various industries [See My LinkedIn](https://www.linkedin.com/in/torenrobinson/)     
 🎵 Hobbyist songwriter, applying creative problem-solving to code
 
