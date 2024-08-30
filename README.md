@@ -1,6 +1,6 @@
 # Toren Robinson
 
-## Software Engineer | Full Stack Developer | Front-End Specialist  
+## Self-Taught Software Engineer | Full Stack Developer | Front-End Specialist  
 
 💼 Full Stack Developer with professional experience building Front End Components of SEO Research tool [InsightGainer.com](insightgainer.com)   
 🌟 Independently developing a Full Stack Calendar Budget web app [EndsFE](https://github.com/torenrob/endsFE) | [EndsAPI](https://github.com/torenrob/endsapi)    
