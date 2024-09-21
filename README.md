@@ -9,5 +9,3 @@
 💡 Passionate about learning all that I can about software and emerging technology   
 💼 Over a decade of experience in Business Operations across various industries [See My LinkedIn](https://www.linkedin.com/in/torenrobinson/)     
 🎵 Hobbyist songwriter, applying creative problem-solving to code
-
-![Shewstring](https://shewstring.com)
